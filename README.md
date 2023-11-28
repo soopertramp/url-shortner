@@ -1,5 +1,13 @@
 # URL-Shortener Application
    ![alt-text](https://github.com/soopertramp/url-shortner/blob/main/flask.png)
+
+This is a lightweight URL shortener built using Flask, a micro web framework for Python. The application allows users to generate short aliases for long URLs, making it easy to share links in a concise and user-friendly manner.
+
+## Features:
+
+      URL Shortening: Quickly create short aliases for long URLs.
+      Redirection: Users are redirected to the original URL when they access the shortened link.
+      Customizable Aliases: Choose custom aliases for your shortened URLs.
    
  ## Flask
   1. Create a project required environment
