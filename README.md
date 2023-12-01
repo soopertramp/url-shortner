@@ -50,4 +50,4 @@ This is a lightweight URL shortener built using Flask, a micro web framework for
        flask run
        ```
 
-   **Credits - Nick Walter**
+   **Credits - Nick Walter** for his amazing course on linkdein learning.
